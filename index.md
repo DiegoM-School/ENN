@@ -7,6 +7,9 @@ It's the new school year! This year, the newspaper team is striving to deliver o
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScKvDpLUwEsYeA54flWLkDhLFpnzYankJllHFggaFeIGPkduQ/viewform?embedded=true" width="600" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 <br>
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSetx7qlvTG9dDMizOda1P6LzRDckdbTscTR0md2TbEZMpOJMg/viewform?embedded=true" width="600" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<br>
+
 # Issue 1 
 Issue one of the newspaper is realeased! Enjoy.
 
