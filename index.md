@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Survey
+ENN Content Survey
+by Isabel Truckner and Katelynn Wood
 
-You can use the [editor on GitHub](https://github.com/DiegoM-School/ENN/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It's the new school year! This year, the newspaper team is striving to deliver our fellow peers and administration quality news and reporting, along with other articles designed and written to entertain and inform the bright young students attending Sebastian Charter Junior High. Please click on the link below to complete the survey.
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScKvDpLUwEsYeA54flWLkDhLFpnzYankJllHFggaFeIGPkduQ/viewform?embedded=true" width="600" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<br>
 
-### Markdown
+# Issue 1 
+Issue one of the newspaper is realeased! Enjoy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<embed src="ENN.pdf" type="application/pdf" width="600" height="520" />
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DiegoM-School/ENN/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you can't see the document it is also <a href="https://drive.google.com/file/d/0B2Xi9N_rGI-IMWl2Rjk4MDVuUGZtc1FuR0Z4RWdkRHViaDJ3/view?usp=sharing">here</a>
