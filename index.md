@@ -1,7 +1,7 @@
 
 
 # Issue 1 
-Issue one of the newspaper is realeased! Enjoy.
+Hot off the press! Here is ENN issue 2.
 
 <embed src="ENN.pdf" type="application/pdf" width="600" height="520" />
 
